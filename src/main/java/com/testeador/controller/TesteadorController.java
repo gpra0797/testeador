@@ -25,7 +25,7 @@ public class TesteadorController {
 		Prueba p = new Prueba();
 		p.setDescripcion("JEJE");
 		p.setFechaCreacion(new Date());
-		p.setId(12);
+		p.setId(15);
 		
 		List<Prueba> pruebas = new ArrayList<>();
 		pruebas.add(p);
